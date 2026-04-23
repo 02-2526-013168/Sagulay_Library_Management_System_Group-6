@@ -1,2 +1,1 @@
-# Sagulay_Library_Management_System
-Library Management System
+# Sagulay_Artist_Commision_System
